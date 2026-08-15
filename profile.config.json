@@ -1,77 +1,110 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Muhammad Idris Marzuki",
+    "username": "marzuki23",
+    "headline": "Informatics Engineering Student • Developer",
+    "affiliation": "Informatics Engineering Student",
+    "location": "Kota Tegal, Indonesia",
+    "status": "Always learning and building new projects",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I'm an Informatics Engineering student interested in software development, mobile development, and modern web technologies.",
+      "Always learning and building new projects, from Flutter mobile apps to full-stack web applications."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Software Engineering",
+    "direction": "Mobile & Web development",
+    "themes": "Flutter / Full-stack / Modern web",
+    "narrative": "I focus on building practical software across mobile and web, exploring modern technologies, and turning ideas into useful applications people can use every day."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Development",
+      "description": "Building practical software across mobile and web platforms."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Mobile Development (Flutter)",
+      "description": "Cross-platform mobile applications built with Flutter and Dart."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Web Development",
+      "description": "Modern web technologies for responsive, functional, and fast sites."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "HappyTrip",
+      "url": "https://github.com/marzuki23/HappyTrip",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Travel application",
+      "summary": "Travel app built with Flutter featuring travel recommendations, location-based functionality, and AI-powered face recognition.",
+      "heroLabel": "Flutter travel app"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "CarbonScan",
+      "url": "https://github.com/marzuki23/CarbonScan",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Sustainability application",
+      "summary": "Analyzes and monitors carbon emissions from shopping receipts to encourage more sustainable habits.",
+      "heroLabel": "Emission tracker"
+    },
+    {
+      "name": "SmartTrip",
+      "url": "https://github.com/marzuki23/SmartTrip",
+      "homepage": "",
+      "focus": "Tourism application",
+      "summary": "Tourism recommendation application for discovering and exploring local tourist destinations.",
+      "heroLabel": "Tourism recommender"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "Flutter",
+    "Dart",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "Laravel",
+    "FastAPI",
+    "Node.js",
+    "React",
+    "Next.js",
+    "MySQL",
+    "MongoDB",
+    "Git",
+    "GitHub",
+    "VS Code"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "marzuki23",
+      "url": "https://github.com/marzuki23",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Muhammad-Idris-Marzuki",
+      "url": "https://linkedin.com/in/Muhammad-Idris-Marzuki",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Instagram",
+      "value": "m.idris_23",
+      "url": "https://instagram.com/m.idris_23",
+      "logo": "instagram",
+      "color": "E4405F"
     }
   ],
   "activity": {
-    "enabled": true,
+    "enabled": false,
     "limit": 6
   },
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building, learning, and improving every day."
 }
