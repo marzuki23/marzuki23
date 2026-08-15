@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,typescript,php,laravel,fastapi,nodejs,react,nextjs,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,nextjs,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
