@@ -74,16 +74,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marzuki23&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" />
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### ✈️ HappyTrip
